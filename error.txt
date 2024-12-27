@@ -1,0 +1,2 @@
+Malformed POM C:\Users\Dell\eclipse-workspace\SeleniumDemo\pom.xml: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">\r\n  <m... @2:5)  @ C:\Users\Dell\eclipse-workspace\SeleniumDemo\pom.xml, line 2, column 5
+ @ 
